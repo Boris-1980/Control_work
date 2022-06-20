@@ -1,0 +1,15 @@
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/bin/Debug/net6.0/Program_work
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/bin/Debug/net6.0/Program_work.deps.json
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/bin/Debug/net6.0/Program_work.runtimeconfig.json
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/bin/Debug/net6.0/Program_work.dll
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/bin/Debug/net6.0/Program_work.pdb
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/Program_work.csproj.AssemblyReference.cache
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/Program_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/Program_work.AssemblyInfoInputs.cache
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/Program_work.AssemblyInfo.cs
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/Program_work.csproj.CoreCompileInputs.cache
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/Program_work.dll
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/refint/Program_work.dll
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/Program_work.pdb
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/Program_work.genruntimeconfig.cache
+/Users/b.shapovalov/Desktop/Учеба /Control_Work/Program_work/obj/Debug/net6.0/ref/Program_work.dll
